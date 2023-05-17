@@ -68,7 +68,7 @@ Civic Tech（公民科技）主要在於利用各種設計思維、溝通方式�
 中華投資環境策進會　理事長　余凌霄
 
 
-![中華投資環境策進會](https://lh3.googleusercontent.com/n058qZqZ475zLv6GDdfxyxfMyXs2KAryT4OIYtu5E4konjPBtiw9Xh3yKxgHakAJop2aH1Z4jz4rO0lxrgIUi8dthzIxC6BHtryST7P5UYfv6PlIyN8tGya8NjsHK9ZlEg=w1280)
+![中華投資環境策進會](/img/cieia.png)
 
 ---
 ## 目錄
