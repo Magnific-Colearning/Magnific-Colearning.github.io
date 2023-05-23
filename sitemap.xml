@@ -4,7 +4,7 @@
   <url>
     <loc>https://colearning.magnific.biz/Civic-Tech%EF%BC%88%E6%8A%80%E8%83%BD%EF%BC%89%E5%85%B1%E5%AD%B8%E9%80%B1%E5%A0%B1%E7%AC%AC%E5%85%AD%E5%8D%81%E5%9B%9B%E6%9C%9F/</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://colearning.magnific.biz/Civic-Tech%EF%BC%88%E6%8A%80%E8%83%BD%EF%BC%89%E5%85%B1%E5%AD%B8%E9%80%B1%E5%A0%B1%E7%AC%AC%E5%85%AD%E5%8D%81%E4%BA%94%E6%9C%9F/</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://colearning.magnific.biz/Civic-Tech%EF%BC%88%E6%8A%80%E8%83%BD%EF%BC%89%E5%85%B1%E5%AD%B8%E9%80%B1%E5%A0%B1%E7%AC%AC%E5%85%AD%E5%8D%81%E5%85%AD%E6%9C%9F/</loc>
+    
+    <lastmod>2023-05-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1183,7 +1192,7 @@
 
   <url>
     <loc>https://colearning.magnific.biz/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1191,14 +1200,14 @@
   
   <url>
     <loc>https://colearning.magnific.biz/tags/tag1/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://colearning.magnific.biz/tags/tag2/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -1207,21 +1216,21 @@
   
   <url>
     <loc>https://colearning.magnific.biz/categories/Civic-Tech/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://colearning.magnific.biz/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://colearning.magnific.biz/categories/%E7%94%A2%E5%93%81%EF%BC%88%E6%8A%80%E8%83%BD%EF%BC%89%E5%AD%B8%E7%BF%92%E9%80%B1%E5%A0%B1/</loc>
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
