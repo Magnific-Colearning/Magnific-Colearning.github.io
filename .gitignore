@@ -1,6 +1,10 @@
 .deploy_git
 
-*.DS_Store
+**/.DS_Store
+
+**.DS_Store
+
+source/img/.DS_Store
 
 themes/
 
