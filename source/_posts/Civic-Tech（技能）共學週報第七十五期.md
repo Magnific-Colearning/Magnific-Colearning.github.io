@@ -157,6 +157,8 @@ AI可以作為氣候變遷的元兇、或解決這個問題的推手，看人類
 - [2023產業Ｗeb3數位與永續發展：區塊鏈技術應用與ESG淨零轉型論壇](https://www.accupass.com/event/2307030621461841368839)
 **8月1日**
 - [NTUFC X Gen3 Solana 開發者訓練營](https://www.accupass.com/event/2306050643383605147930)
+
+- [交叉觀點：AI X 數位人權 亞洲契機交流會 Intersection：Exchange Activities for AI x Digital Rights](https://ocftw.kktix.cc/events/aixdigitalrights)
 **8月2日**
 - [Mosaic x AgileGirls | Mashup! 科技女力小聚](https://www.accupass.com/event/2307170730471061214256)
 **8月3日**
